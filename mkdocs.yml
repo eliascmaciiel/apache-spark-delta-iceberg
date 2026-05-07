@@ -1,0 +1,11 @@
+site_name: Apache Spark com Delta Lake e Apache Iceberg
+site_description: Trabalho acadêmico de Arquitetura de Dados
+site_url: https://eliascmaciiel.github.io/apache-spark-delta-iceberg/
+theme:
+  name: material
+nav:
+  - Início: index.md
+  - Spark e PySpark: spark.md
+  - Delta Lake: delta.md
+  - Apache Iceberg: iceberg.md
+  - Cenário de Dados: cenario.md

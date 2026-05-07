@@ -1,0 +1,6 @@
+cliente_id,cliente_nome,cliente_cidade,produto_id,produto_nome,categoria,preco_unitario,venda_id,data_venda,item_venda_id,quantidade,desconto
+1,Ana Silva,Sao Paulo,101,Notebook Pro,Eletronicos,4500.00,1001,2026-04-01,1,1,0.00
+2,Bruno Souza,Rio de Janeiro,102,Mouse Sem Fio,Perifericos,120.00,1002,2026-04-02,2,2,10.00
+1,Ana Silva,Sao Paulo,103,Teclado Mecanico,Perifericos,350.00,1003,2026-04-03,3,1,0.00
+3,Carla Lima,Curitiba,101,Notebook Pro,Eletronicos,4500.00,1004,2026-04-04,4,1,150.00
+4,Diego Alves,Belo Horizonte,104,Monitor 27,Eletronicos,1800.00,1005,2026-04-05,5,2,0.00
